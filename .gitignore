@@ -1,0 +1,12 @@
+# JetBrains IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# .NET build files
+bin/
+obj/
+
+# Visual Studio
+.vs/
